@@ -1,2 +1,2 @@
 # Tasks
-This is a training tasks from JavaRush.com
+This is a training tasks from JavaRush.ru
